@@ -1,4 +1,7 @@
-## 목차 
+## 공부내용 정리 
 
-1.Discrete Time Markov Chain 
++ Reinforcement learning
++ Deep learning
++ Statistics
++ Data Visulization 
 
