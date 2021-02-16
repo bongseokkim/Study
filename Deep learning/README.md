@@ -1,7 +1,7 @@
 From Dive into Deep Learning
 
 ## Index 
-+ Multilayer Perceptrons
++ [Multilayer Perceptrons](#multilayer perceptrons)
 + Deep Learning Computation
 + Convolutional Neural Netwroks
 + Modern Convolutional Neural Networks
